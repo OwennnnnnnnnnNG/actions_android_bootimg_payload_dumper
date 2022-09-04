@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip
+  ROM_URL: https://xiaomirom.com/download/redmi-note-10-pro-5g-poco-x3-gt-chopin-stable-V12.5.8.0.RKPMIXM/#global-recovery
   TZ: Asia/Shanghai
 
 jobs:
