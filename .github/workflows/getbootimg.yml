@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/file/d/1VQONZ9RbzkmvLn46710kBJWESX3Kg4ug/view?usp=drive_link
-  TZ: Asia/HongKong
+  ROM_URL:  https://drive.google.com/file/d/1VQONZ9RbzkmvLn46710kBJWESX3Kg4ug/view?usp=drive_link
+  TZ: Asia/Shanghai
 
 jobs:
   make:
