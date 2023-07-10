@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.7.0.RKPMIXM/miui_CHOPINGlobal_V12.5.7.0.RKPMIXM_c79b13bbdc_11.0.zip
-  TZ: Asia/Shanghai
+  ROM_URL: https://drive.google.com/file/d/1VQONZ9RbzkmvLn46710kBJWESX3Kg4ug/view?usp=drive_link
+  TZ: Asia/HongKong
 
 jobs:
   make:
